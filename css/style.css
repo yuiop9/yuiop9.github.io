@@ -35,6 +35,7 @@
                   grid-template-columns: repeat(auto-fit, minmax(300px, auto));
                   grid-template-rows: repeat(3, minmax(300px, auto));
                   }
-  .container .img{background-color: blueviolet;}
+  .container .item{background-color: blueviolet;}
+  .ad .container a:nth-child(1){background-color: aqua;}
 
   
